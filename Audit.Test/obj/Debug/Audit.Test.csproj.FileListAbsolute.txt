@@ -1,0 +1,13 @@
+D:\_Development\Learning\Audit\Audit.Test\obj\Debug\Audit.Test.csprojResolveAssemblyReference.cache
+D:\_Development\Learning\Audit\Audit.Test\bin\Debug\Audit.Test.dll
+D:\_Development\Learning\Audit\Audit.Test\bin\Debug\Audit.Test.pdb
+D:\_Development\Learning\Audit\Audit.Test\bin\Debug\Audit.exe
+D:\_Development\Learning\Audit\Audit.Test\bin\Debug\nunit.framework.dll
+D:\_Development\Learning\Audit\Audit.Test\bin\Debug\Audit.pdb
+D:\_Development\Learning\Audit\Audit.Test\bin\Debug\nunit.framework.xml
+D:\_Development\Learning\Audit\Audit.Test\obj\Debug\Audit.Test.dll
+D:\_Development\Learning\Audit\Audit.Test\obj\Debug\Audit.Test.pdb
+D:\_Development\Learning\Audit\Audit.Test\bin\Debug\AuditMvc.dll
+D:\_Development\Learning\Audit\Audit.Test\bin\Debug\AuditMvc.pdb
+D:\_Development\Learning\Audit\Audit.Test\bin\Debug\Moq.dll
+D:\_Development\Learning\Audit\Audit.Test\bin\Debug\Moq.xml

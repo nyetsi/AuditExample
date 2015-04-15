@@ -1,0 +1,7 @@
+D:\_Development\Learning\Audit\AuditMvc\obj\Debug\AuditMvc.csprojResolveAssemblyReference.cache
+D:\_Development\Learning\Audit\AuditMvc\bin\Debug\AuditMvc.dll
+D:\_Development\Learning\Audit\AuditMvc\bin\Debug\AuditMvc.pdb
+D:\_Development\Learning\Audit\AuditMvc\bin\Debug\Audit.exe
+D:\_Development\Learning\Audit\AuditMvc\bin\Debug\Audit.pdb
+D:\_Development\Learning\Audit\AuditMvc\obj\Debug\AuditMvc.dll
+D:\_Development\Learning\Audit\AuditMvc\obj\Debug\AuditMvc.pdb

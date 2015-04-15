@@ -1,0 +1,6 @@
+D:\_Development\Learning\Audit\Audit\bin\Debug\Audit.exe.config
+D:\_Development\Learning\Audit\Audit\bin\Debug\Audit.exe
+D:\_Development\Learning\Audit\Audit\bin\Debug\Audit.pdb
+D:\_Development\Learning\Audit\Audit\obj\Debug\Audit.csprojResolveAssemblyReference.cache
+D:\_Development\Learning\Audit\Audit\obj\Debug\Audit.exe
+D:\_Development\Learning\Audit\Audit\obj\Debug\Audit.pdb
